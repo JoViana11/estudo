@@ -1,0 +1,22 @@
+img {
+  height: 92px;
+}
+
+a {
+  text-decoration: none;
+  color: #000000de;
+  font-size: 13px;
+  font-family: sans-serif;
+}
+
+.icone-produtos {
+  width: 24px;
+  fill: #5f6368;
+}
+
+.botao-entrar {
+  background-color: #1a73e8;
+  color: #ffffff;
+  padding: 10px 30px;
+  border-radius: 8px;
+}
